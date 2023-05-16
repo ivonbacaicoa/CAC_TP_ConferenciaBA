@@ -1,5 +1,3 @@
-
-
 # Trabajo Integrador del módulo Front-end perteneciente al Programa "Codo a Codo Java Full Stack 2023, del GCBA" 
 GCBA-Codo a Cogo / TP Integrador - Conferencia Bs.As.
 
@@ -21,3 +19,9 @@ A través de esta práctica incursionamos en HTML, CSS, Bootstrap y aprendemos a
     </tr>
   </table>
 </div>
+
+**Social Media:**
+
+[![GitHub](icons/github.png)](https://github.com/ivonbacaicoa)
+[![Twitter](icons/twitter.png)](https://twitter.com/ivonbacaicoa)
+[![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/ivonbacaicoa/)
