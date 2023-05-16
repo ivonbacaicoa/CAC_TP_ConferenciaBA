@@ -9,7 +9,7 @@ A través de esta práctica incursionamos en HTML, CSS, Bootstrap y aprendemos a
   <table>
     <tr>
       <td>
-     La primera entrega consistió en reproducir el front-end de una web estática y responsiva. De esta manera incursionamos en los lenguajes de maquetado como HTML, CSS3 y Bootstrap  https://ivonbacaicoa.github.io/CAC_TP_ConferenciaBA/
+     La primera entrega consistió en reproducir el front-end de una web estática y responsiva. De esta manera incursionamos en los lenguajes de maquetado como HTML, CSS3 y Bootstrap  https://ivonbacaicoa.github.io/CAC_TP_ConferenciaBA/  (Proyecto en desarrollo)
       </td>
       <td>
         <img src="https://github.com/ivonbacaicoa/CAC_TP_ConferenciaBA/blob/main/assets/img/Menu_Header_Carousel_Button.webp" width="500px">
@@ -23,6 +23,8 @@ A través de esta práctica incursionamos en HTML, CSS, Bootstrap y aprendemos a
   </table>
 </div>
 
+<br>
+<br>
 
 **Social Media:**
 
