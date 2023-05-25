@@ -1,4 +1,3 @@
-
 @import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.4/font/bootstrap-icons.css");
 
 * {
@@ -46,6 +45,15 @@ color: rgb(33, 206, 10) !important;
     background-color: rgb(150, 194, 29);
 }
 
+#termyco, #pregfre{
+    max-width:110px;
+}
+
+#total {
+    background-color: rgb(191, 221, 255);
+    margin-top: 35px;
+   height: 55px;
+}
 .footer{
     min-height: 80px;
     background:linear-gradient(90deg, rgb(9, 39, 53), rgb(27, 85, 119));
@@ -70,8 +78,4 @@ color: rgb(33, 206, 10) !important;
     -moz-transition: .3s all;
     -ms-transition: .3s all;
     -o-transition: .3s all;
-}
-
-#termyco, #pregfre{
-    max-width:110px;
 }
