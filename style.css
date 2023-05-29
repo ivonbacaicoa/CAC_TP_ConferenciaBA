@@ -43,6 +43,7 @@ color: rgb(33, 206, 10) !important;
 
 #formButton{
     background-color: rgb(150, 194, 29);
+    color: inherit;
 }
 
 #termyco, #pregfre{
