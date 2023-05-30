@@ -38,7 +38,7 @@ nav div .navbar-nav .comprar {
 }
 
 .fondo{
-       background-color: rgb(50, 50, 51) !important;
+    background-color: rgb(50, 50, 51) !important;
 }
 
 #formButton{
@@ -46,6 +46,15 @@ nav div .navbar-nav .comprar {
     color: inherit;
 }
 
+#termyco, #pregfre{
+    max-width:110px;
+}
+
+#total {
+    background-color: rgb(191, 221, 255);
+    margin-top: 35px;
+   height: 55px;
+}
 .footer{
     min-height: 80px;
     background:linear-gradient(90deg, rgb(9, 39, 53), rgb(27, 85, 119));
@@ -67,16 +76,6 @@ nav div .navbar-nav .comprar {
     color: rgba(221, 221, 0) !important;
     transition:.3s; 
     -webkit-transition: .3s all;
-    /* -moz-transition: .3s all;
-    /* -ms-transition: .3s all;  */
-    -o-transition: .3s all; } */
-
- #termyco, #pregfre{
-    max-width:110px;
-} 
-
-    #total {
-        background-color: rgb(191, 221, 255);
-        margin-top: 35px;
-       height: 55px;
-    }
+    -moz-transition: .3s all;
+    -ms-transition: .3s all;
+}

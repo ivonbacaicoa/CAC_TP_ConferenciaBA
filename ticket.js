@@ -7,9 +7,8 @@ const cantidad = document.querySelector("#cantidad");
     const cantidadValue = parseInt(cantidad.value);
     if (cantidadValue > 0) {
       total.value = "Total a pagar: $" + cantidadValue * 200 * categoria.value;
-      button.clicked = true; // Indicar que se ha presionado el botón 'Resumen'
+      button.clicked = true; 
     } else {
-      alert("Ingrese un número entero positivo")
+      alert("Ingrese cantidad correcta")
     }
   }
-
