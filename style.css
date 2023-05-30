@@ -43,6 +43,7 @@ nav div .navbar-nav .comprar {
 
 #formButton{
     background-color: rgb(150, 194, 29);
+    color: inherit;
 }
 
 .footer{
